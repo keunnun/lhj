@@ -9,5 +9,11 @@
 <body>
 메인페이지
 추가한 내용
+<form>
+
+<input type="text" name="test">
+
+
+</form>
 </body>
 </html>
