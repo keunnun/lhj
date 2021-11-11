@@ -9,6 +9,7 @@
 <body>
 메인페이지
 추가한 내용
+로그인하는 버튼
 <form>
  <input type="button" value="회원가입">
 <input type="text" name="test">
